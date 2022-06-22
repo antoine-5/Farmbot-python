@@ -21,6 +21,6 @@ In short the user should
 
 # Requirements
 
-- Obviously the farmbot library
+- Farmbot library
 - csv library
 - py2pddl library
