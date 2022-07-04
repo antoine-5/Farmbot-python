@@ -30,6 +30,8 @@ In short the user should
 
 You can find here the methodology used to analyze the photos taken from the Farmbot.
 
+### The code ###
+
 To do this we used an already done plant segmentation github repository:
 
 https://github.com/otaviog/plant-segmentation
@@ -38,3 +40,7 @@ PS:
 - The reauirements for python 3.7 should be respected the Ubuntu one is not necessary.
 - The command that should be written in the terminal at the later stages of using this repository shouold be:
 "rflow fpn run train" and not "rflow run fpn train".
+
+### The Dataset ###
+
+The Dataset used is through a link shown in the plant segmentation github repository  mentioned above: https://github.com/otaviog/plant-segmentation
