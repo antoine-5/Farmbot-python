@@ -1,6 +1,6 @@
-# Farmbot-python
+# Classical planning
 
-You can find here a planning the farmbot executes completely
+You can find here a classical planning the farmbot executes completely coded using the python language.
 
 # Files explanation
 
