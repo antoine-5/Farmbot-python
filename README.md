@@ -10,6 +10,7 @@ You can find here a planning the farmbot executes completely
 - **plan02.py** (parser) reads execute.txt and generates commands.txt
 - **commands.txt** contains the saved vector containing all the cmds that will be executed by the robot using the torobot.py file
 - **data.csv** the values of the soil sensor are stored in this file in the form of a csv file
+- The file ff-v2.3.zip file should be extracted to obtain the ff solver. It has been downloaded from the website: https://fai.cs.uni-saarland.de/hoffmann/ff.html 
 
 # How to run the code
 
