@@ -27,7 +27,7 @@ In short the user should
 - py2pddl library
 
 
-# IMAGE PROCESSING #
+:four_leaf_clover: # IMAGE PROCESSING #
 
 You can find here the methodology used to analyze the photos taken from the Farmbot.
 
