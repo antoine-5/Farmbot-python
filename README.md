@@ -1,4 +1,4 @@
-# CLASSICAL PLANNING
+# Classical Planning #
 
 You can find here a classical planning the farmbot executes completely coded using the python language.
 
@@ -43,3 +43,7 @@ PS:
 ### The Dataset ###
 
 The Dataset used is through a link shown in the plant segmentation github repository  mentioned above: https://github.com/otaviog/plant-segmentation
+
+# Markov Decision Process #
+
+MDP_plan_02.ipynb file defines the problem with the Markov Decision Process.
